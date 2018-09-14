@@ -1,0 +1,11 @@
+*.mk
+*.o
+*.d
+*/dist/*
+*.inc
+*/build/*
+*/private/*
+*.bash
+*.xml
+*.properties
+*indexer*
